@@ -1,2 +1,2 @@
 # firstRepositoryTest
-nothing going on
+nothing is going on
